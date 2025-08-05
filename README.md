@@ -1,2 +1,0 @@
-# forohubchallenge
-Challenge Alura Latam
